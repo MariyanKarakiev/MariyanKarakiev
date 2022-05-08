@@ -1,6 +1,6 @@
-### Hello there 👋
+## Hello there 👋
 
-## I'm Mariyan Karakiev, Junior Developer
+### I'm Mariyan Karakiev, Junior Developer
 
 
 
