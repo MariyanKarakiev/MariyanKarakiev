@@ -1,6 +1,9 @@
-## Hello there 👋
+## Hello there 👋,
+
 
 ## I'm Mariyan Karakiev - Junior C# Developer
+
+
 
 ### Here are my stats
 
