@@ -17,8 +17,8 @@
 - Meet nice people, stay positive
 ## Here are my stats
 <div style="display: flex; flex-direction: row;" >
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=MariyanKarakiev&theme=github_dark&show_icons=true" />
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MariyanKarakiev&show_icons=true&theme=github_dark&layout=compact&hide=css"/>
+ <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=MariyanKarakiev&theme=github_dark&show_icons=true" />
+ <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=MariyanKarakiev&show_icons=true&theme=github_dark&layout=compact&hide=css"/>
 </div>
 
 
