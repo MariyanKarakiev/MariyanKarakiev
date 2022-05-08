@@ -2,5 +2,5 @@
 
 <div style="display: flex; flex-direction: row; width=100">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MariyanKarakiev&theme=github_dark&show_icons=true" />
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariyanKarakiev&layout=compact)(https://github.com/anuraghazra/github-readme-stats)"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats"/>
 </div>
