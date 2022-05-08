@@ -1,12 +1,19 @@
+
+
 ### Hello there 👋,
 
 
-## I'm Mariyan Karakiev - Junior C# Developer
 
 
+## :bulb::desktop_computer: I'm Mariyan Karakiev - Junior Developer :electric_plug::bulb:
 
+- I'm always thirsty for more knowledge
+- To do in 2022:
+    #### 1. Improve my Streamy web streaming application 
+    #### 2. Cross platform app like DanceSportTotal system
+    #### 3. Web application implementing the RESTful API
+- :octocat:
 ## Here are my stats
-
 <div style="display: flex; flex-direction: row;" >
  <img align="center" width=41.5% src="https://github-readme-stats.vercel.app/api?username=MariyanKarakiev&theme=github_dark&show_icons=true" />
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=MariyanKarakiev&show_icons=true&theme=github_dark&layout=compact&hide=css"/>
