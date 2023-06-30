@@ -8,11 +8,6 @@
 ## :bulb::desktop_computer: I'm Mariyan Karakiev - Junior Developer :electric_plug::bulb:
 
 - I'm always thirsty for more knowledge
-- To do:
-    ##### 1. Improve my Streamy web streaming application 
-    ##### 2. Cross platform app like DanceSportTotal system
-    ##### 3. Web application implementing the RESTful API
-
 - Observe, analize, act, mess up:octocat:, learn
 - Meet nice people, stay positive
 ## Here are my stats
