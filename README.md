@@ -12,8 +12,8 @@
 - Meet nice people, stay positive
 
 ## My projects
-<a href="zamechti.com">zamechti.com</a> - WordPress
-<a href="letmephoto.com">letmephoto.com</a> - HTML, CSS, JS, ImageKit
+<a href="zamechti.com">zamechti.com</a> - WordPress</br>
+<a href="letmephoto.com">letmephoto.com</a> - HTML, CSS, JS, ImageKit</br>
 <a href="zamechti.org">zamechti.org</a> - Python, Flask based early version of  <a href="zamechti.com">zamechti.com</a>
 
 ## Here are my stats
