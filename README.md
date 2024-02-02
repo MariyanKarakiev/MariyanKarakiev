@@ -10,15 +10,17 @@
 - I'm always thirsty for more knowledge
 - Observe, analize, act, mess up:octocat:, learn
 - Meet nice people, stay positive
+
+## My projects
+<a href="zamechti.com">zamechti.com</a> - WordPress
+<a href="letmephoto.com">letmephoto.com</a> - HTML, CSS, JS, ImageKit
+<a href="zamechti.org">zamechti.org</a> - Python, Flask based early version of  <a href="zamechti.com">zamechti.com</a>
+
 ## Here are my stats
 <div style="display: flex; flex-direction: row;" >
  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=MariyanKarakiev&theme=github_dark&show_icons=true" />
  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=MariyanKarakiev&show_icons=true&theme=github_dark&layout=compact&hide=css"/>
 </div>
-
-## My projects
-
-<a href="zamechti.com">zamechti.com</a> - WordPress
 
 ## Connect with me:
 
