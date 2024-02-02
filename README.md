@@ -8,7 +8,7 @@
 ## :bulb::desktop_computer: I'm Mariyan Karakiev - Junior Developer :electric_plug::bulb:
 
 - I'm always thirsty for more knowledge
-- Observe, analize, act, mess up:octocat:, learn
+- Observe, analize, act, mess up :octocat:, learn
 - Meet nice people, stay positive
 
 ## My projects
